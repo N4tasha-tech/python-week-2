@@ -15,8 +15,8 @@ This project demonstrates basic list operations in Python, including appending, 
 6. Sort my list in ascending order.
 Find and print the index of the value 30 in my list.
 
-## 🚀 How to Run
+## How to Run
 1. Make sure you have **Python 3** installed.
 2. Save the file.
 
->>>>>>> a9da971 (Work in progress)
+
