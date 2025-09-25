@@ -1,7 +1,7 @@
 # List Assignment
-<<<<<<< HEAD
+
 ## My assignment
-=======
+
 ## Python List Assignment
 
 This project demonstrates basic list operations in Python, including appending, inserting, extending, removing, sorting, and finding the index of an element.
